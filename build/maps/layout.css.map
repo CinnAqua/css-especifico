@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout.scss"],"names":[],"mappings":"AAAA,UACI,gBACA,WACA,iBACA,aACA,kCACA","file":"../layout.css","sourcesContent":[".produtos {\r\n    max-width: 640px;\r\n    width: 100%;\r\n    margin: 56px auto;\r\n    display: grid;\r\n    grid-template-columns: 33% 33% 33%;\r\n    grid-column-gap: 1%;\r\n}"]}
